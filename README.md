@@ -8,7 +8,7 @@ java ExpenseTracer
 
 #OUTPUT
 
-Expense Trac er Menu =====——
+Expense Tracker Menu =====——
 1. Add Transaction (Income/Expense)
 2. View Monthly Sunmary
 3. Exit
